@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Practica 2-2</string>
+    <string name="estado">Estado</string>
+    <string name="pulsame">Pulsame!</string>
+    <string name="pulsado">Boton pulsado!</string>
+    <string name="pulsado_largo">El boton se ha pulsado mucho rato</string>
+</resources>
